@@ -1,0 +1,5 @@
+msgid "plugins.generic.gndkeywords.title"
+msgstr "GND Tags Plugin"
+
+msgid "plugins.generic.gndkeywords.desc"
+msgstr "This plugin fetches GND-keywords using the lobid API. The keywords are shown via autosuggest keyword field."
